@@ -1,10 +1,12 @@
-import Stack from "./components/Stack";
+import Header from "./components/Header";
+import Input from "./components/Input";
 import "./index.css";
 
 function App() {
   return (
     <>
-      <Stack />
+      <Header />
+      <Input />
     </>
   );
 }

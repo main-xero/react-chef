@@ -2,7 +2,7 @@ import reactLogo from "../assets/react.svg";
 import viteLogo from "../assets/vite.svg";
 import huggingLogo from "../assets/hugging.svg";
 
-export default function Stack() {
+export default function Header() {
   return (
     <>
       <div className="stack">
@@ -21,7 +21,8 @@ export default function Stack() {
         </a>
       </div>
       <header className="header">
-        <h1>Spicey Chef</h1>
+        <h1>🍲 Hugging Chef</h1>
+        <p>web application</p>
       </header>
     </>
   );
