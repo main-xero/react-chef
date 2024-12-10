@@ -1,12 +1,12 @@
 import Header from "./components/Header";
-import Input from "./components/Input";
+import Main from "./components/Main";
 import "./index.css";
 
 function App() {
   return (
     <>
       <Header />
-      <Input />
+      <Main />
     </>
   );
 }

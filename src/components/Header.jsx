@@ -21,7 +21,7 @@ export default function Header() {
         </a>
       </div>
       <header className="header">
-        <h1>🍲 Hugging Chef</h1>
+        <h1>🍲 The Saucy Chef</h1>
         <p>web application</p>
       </header>
     </>
